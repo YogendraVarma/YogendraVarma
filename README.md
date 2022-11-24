@@ -18,18 +18,21 @@ Highlights: Received Merit scholarship for 4 consecutive years
 PROJECTS
 
 Web Scraping with Python 
+https://jovian.ai/yogi-varmavatsa/web-scrapping
 
 Scraped  from Amazon Books website using Requests & BeautifulSoup4
 Parsed Name, Author, Link and Book ratings by building functions such as parse_url, name_of_book, name_of_author, books_url and books_url
 Stored data consisting of 250+ rows x 4 columns into .csv file using Pandas.
 
  Excel and Tableau 
+ https://public.tableau.com/app/profile/yogendra.varma
  
 Added two new sheets into the Excel Workbook to display aggregated/summarized data
 Imported the Excel workbook into Tableau Public and set up relationships between appropriate tables
 Created 6 different types of interactive visualizations.
 
-Exploratory Data Analysis 
+Exploratory Data Analysis
+https://jovian.ai/yogi-varmavatsa/scholarship
 
 Analyzed data for 2.5 + millions scholarships with 16 columns using Numpy and Pandas.
 Created visualizations using Python’s Matplotlib, Seaborn and Plotly libraries
