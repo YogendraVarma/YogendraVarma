@@ -7,6 +7,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 
 Vellore Institute of Technology, Vellore                                                                            August 2022-Ongoing
+
 M.Sc Chemistry
 
 Regional Institute of Education, Mysore                                                                July 2017 - September2021
