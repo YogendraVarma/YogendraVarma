@@ -3,6 +3,7 @@
 EDUCATION
 
 Data Science Bootcamp, Jovian                                                                                           May 2022 - Ongoing
+
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 Highlights: 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
 
@@ -11,6 +12,7 @@ Vellore Institute of Technology, Vellore                                        
 M.Sc Chemistry
 
 Regional Institute of Education, Mysore                                                                July 2017 - September2021
+
 B.Sc.B.Ed, (Physics,Mathematics and Chemistry)         
 Multivariate and Vector Calculus, Matrices, Number Theory, Real analysis, Complex analysis, Linear Algebra
 Highlights: Received Merit scholarship for 4 consecutive years
